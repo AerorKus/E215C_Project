@@ -39,8 +39,20 @@
 					</option>
 				</tooloptions>
 				<vars>
+					<var>C
+						<value>10p</value>
+					</var>
+					<var>L
+						<value>115n</value>
+					</var>
 					<var>V
 						<value></value>
+					</var>
+					<var>Ld
+						<value>15n</value>
+					</var>
+					<var>Ls
+						<value>700p</value>
 					</var>
 				</vars>
 			</test>
