@@ -54,6 +54,12 @@
 					<var>Ls
 						<value>700p</value>
 					</var>
+					<var>Viip3
+						<value>1m </value>
+					</var>
+					<var>Pin
+						<value>-40</value>
+					</var>
 				</vars>
 			</test>
 		</tests>
