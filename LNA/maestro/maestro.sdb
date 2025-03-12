@@ -55,10 +55,13 @@
 						<value>700p</value>
 					</var>
 					<var>Viip3
-						<value>1m </value>
+						<value>-30</value>
 					</var>
 					<var>Pin
-						<value>-40</value>
+						<value>{Inclusion List}-30{Inclusion List}{From/To}Auto:-30:15:0{From/To}</value>
+					</var>
+					<var>R
+						<value>100k</value>
 					</var>
 				</vars>
 			</test>
